@@ -1,0 +1,67 @@
+2025-11-30T21:32:03.638+01:00  INFO 18199 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Starting Tp8MonitoringApplication using Java 25 with PID 18199 (/Users/mahdi/Downloads/tp8-monitoring/target/classes started by mahdi in /Users/mahdi/Downloads/tp8-monitoring)
+2025-11-30T21:32:03.640+01:00  INFO 18199 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : No active profile set, falling back to 1 default profile: "default"
+2025-11-30T21:32:04.146+01:00  INFO 18199 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-11-30T21:32:04.154+01:00  INFO 18199 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-11-30T21:32:04.154+01:00  INFO 18199 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.14]
+2025-11-30T21:32:04.174+01:00  INFO 18199 --- [tp8-monitoring] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 497 ms
+2025-11-30T21:32:04.467+01:00  INFO 18199 --- [tp8-monitoring] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoints beneath base path '/actuator'
+2025-11-30T21:32:04.498+01:00  INFO 18199 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-11-30T21:32:04.503+01:00  INFO 18199 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Started Tp8MonitoringApplication in 1.112 seconds (process running for 1.325)
+2025-11-30T21:32:10.147+01:00  INFO 18199 --- [tp8-monitoring] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-30T21:32:10.148+01:00  INFO 18199 --- [tp8-monitoring] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-11-30T21:32:10.150+01:00  INFO 18199 --- [tp8-monitoring] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-11-30T21:32:36.867+01:00  INFO 18199 --- [tp8-monitoring] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-30T21:32:36.874+01:00  INFO 18199 --- [tp8-monitoring] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-11-30T21:32:38.080+01:00  INFO 18203 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Starting Tp8MonitoringApplication using Java 25 with PID 18203 (/Users/mahdi/Downloads/tp8-monitoring/target/classes started by mahdi in /Users/mahdi/Downloads/tp8-monitoring)
+2025-11-30T21:32:38.090+01:00  INFO 18203 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : No active profile set, falling back to 1 default profile: "default"
+2025-11-30T21:32:38.637+01:00  INFO 18203 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-11-30T21:32:38.645+01:00  INFO 18203 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-11-30T21:32:38.645+01:00  INFO 18203 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.14]
+2025-11-30T21:32:38.667+01:00  INFO 18203 --- [tp8-monitoring] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 535 ms
+2025-11-30T21:32:38.966+01:00  INFO 18203 --- [tp8-monitoring] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoints beneath base path '/actuator'
+2025-11-30T21:32:38.996+01:00  INFO 18203 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-11-30T21:32:39.000+01:00  INFO 18203 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Started Tp8MonitoringApplication in 1.312 seconds (process running for 1.534)
+2025-11-30T21:32:49.463+01:00  INFO 18203 --- [tp8-monitoring] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-30T21:32:49.469+01:00  INFO 18203 --- [tp8-monitoring] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-11-30T21:32:51.572+01:00  INFO 18207 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Starting Tp8MonitoringApplication using Java 25 with PID 18207 (/Users/mahdi/Downloads/tp8-monitoring/target/classes started by mahdi in /Users/mahdi/Downloads/tp8-monitoring)
+2025-11-30T21:32:51.575+01:00  INFO 18207 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : No active profile set, falling back to 1 default profile: "default"
+2025-11-30T21:32:52.083+01:00  INFO 18207 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-11-30T21:32:52.089+01:00  INFO 18207 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-11-30T21:32:52.090+01:00  INFO 18207 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.14]
+2025-11-30T21:32:52.110+01:00  INFO 18207 --- [tp8-monitoring] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 504 ms
+2025-11-30T21:32:52.416+01:00  INFO 18207 --- [tp8-monitoring] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoints beneath base path '/actuator'
+2025-11-30T21:32:52.446+01:00  INFO 18207 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-11-30T21:32:52.450+01:00  INFO 18207 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Started Tp8MonitoringApplication in 1.139 seconds (process running for 1.344)
+2025-11-30T21:32:56.768+01:00  INFO 18207 --- [tp8-monitoring] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-30T21:32:56.769+01:00  INFO 18207 --- [tp8-monitoring] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-11-30T21:32:56.770+01:00  INFO 18207 --- [tp8-monitoring] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-11-30T21:34:28.955+01:00  INFO 18207 --- [tp8-monitoring] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-30T21:34:28.964+01:00  INFO 18207 --- [tp8-monitoring] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-11-30T21:34:31.019+01:00  INFO 18223 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Starting Tp8MonitoringApplication using Java 25 with PID 18223 (/Users/mahdi/Downloads/tp8-monitoring/target/classes started by mahdi in /Users/mahdi/Downloads/tp8-monitoring)
+2025-11-30T21:34:31.021+01:00  INFO 18223 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : No active profile set, falling back to 1 default profile: "default"
+2025-11-30T21:34:31.668+01:00  INFO 18223 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-11-30T21:34:31.675+01:00  INFO 18223 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-11-30T21:34:31.675+01:00  INFO 18223 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.14]
+2025-11-30T21:34:31.696+01:00  INFO 18223 --- [tp8-monitoring] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 637 ms
+2025-11-30T21:34:32.025+01:00  INFO 18223 --- [tp8-monitoring] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoints beneath base path '/actuator'
+2025-11-30T21:34:32.067+01:00  INFO 18223 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-11-30T21:34:32.072+01:00  INFO 18223 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Started Tp8MonitoringApplication in 1.424 seconds (process running for 1.708)
+2025-11-30T21:53:49.994+01:00  INFO 18223 --- [tp8-monitoring] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-30T21:53:50.001+01:00  INFO 18223 --- [tp8-monitoring] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-11-30T21:53:50.041+01:00  INFO 18223 --- [tp8-monitoring] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2025-11-30T21:58:25.133+01:00  INFO 18223 --- [tp8-monitoring] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-30T21:58:25.151+01:00  INFO 18223 --- [tp8-monitoring] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-11-30T21:58:27.189+01:00  INFO 21397 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Starting Tp8MonitoringApplication using Java 25 with PID 21397 (/Users/mahdi/Downloads/tp8-monitoring/target/classes started by mahdi in /Users/mahdi/Downloads/tp8-monitoring)
+2025-11-30T21:58:27.192+01:00  INFO 21397 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : No active profile set, falling back to 1 default profile: "default"
+2025-11-30T21:58:27.870+01:00  INFO 21397 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-11-30T21:58:27.877+01:00  INFO 21397 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-11-30T21:58:27.878+01:00  INFO 21397 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.14]
+2025-11-30T21:58:27.898+01:00  INFO 21397 --- [tp8-monitoring] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 656 ms
+2025-11-30T21:58:28.250+01:00  INFO 21397 --- [tp8-monitoring] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoints beneath base path '/actuator'
+2025-11-30T21:58:28.285+01:00  INFO 21397 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-11-30T21:58:28.290+01:00  INFO 21397 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Started Tp8MonitoringApplication in 1.529 seconds (process running for 1.873)
+2025-11-30T21:58:37.926+01:00  INFO 21397 --- [tp8-monitoring] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-11-30T21:58:37.926+01:00  INFO 21397 --- [tp8-monitoring] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-11-30T21:58:37.928+01:00  INFO 21397 --- [tp8-monitoring] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-11-30T22:35:36.169+01:00  INFO 21397 --- [tp8-monitoring] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-11-30T22:35:36.186+01:00  INFO 21397 --- [tp8-monitoring] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
